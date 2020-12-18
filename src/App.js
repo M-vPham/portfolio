@@ -1,24 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from 'react'
+
+import {VerticalMenu} from './Components/VerticalMenu.js'
+import {Header} from './Components/Header.js'
 
 function App() {
+
+    const [toggle, setToggle] = useState(false);
+    function toggleMenu() {
+        setToggle(!toggle);
+    };
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+        <div>
+            <Header toggleMenu={toggleMenu}/>
+        </div>
+        <div>
+            <VerticalMenu toggleMenu={toggle}/>
+        </div>
+
+        </div>
   );
 }
 

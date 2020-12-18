@@ -1,0 +1,10 @@
+.nextButton {
+    text-align: center;
+    padding: 2rem;
+}
+.ui.segment.background {
+    min-height: 100%;
+    padding: '1em 0em';
+    background-image: url('../img/backgroundToWebsite.png');
+    background-size: cover;
+}

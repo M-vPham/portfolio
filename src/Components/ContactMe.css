@@ -1,0 +1,17 @@
+.nextButton {
+    text-align: center;
+    padding: 2rem;
+}
+.cardContainer {
+    padding: 5px;
+}
+.profileImg {
+    position: relative;
+    left: 25%;
+    text-align: center;
+}
+.iconGroup {
+    position: relative;
+    left: 25%;
+    padding: 10px;
+}

@@ -1,0 +1,12 @@
+.subHeader {
+    color: grey;
+    text-align: center;
+}
+.cardContainer {
+    padding: 5px;
+}
+.projectImg {
+    position: relative;
+    left: 25%;
+    text-align: center;
+}
