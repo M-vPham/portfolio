@@ -11,7 +11,7 @@ function VerticalMenu(props){
     const [visible, setVisible] = React.useState(false)
 
     const history = useHistory();
-    const onAboutMeClick = () => history.push('/');
+    const onAboutMeClick = () => history.push('/portfolio/');
     const onProjectsClick = () => history.push('/Projects');
     const onResumeClick = () => history.push('/Resume');
     const onContactMeClick = () => history.push('/ContactMe');
