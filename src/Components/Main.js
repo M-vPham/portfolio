@@ -16,7 +16,7 @@ function MainComponent() {
                 className='ui segment background'
             >
                 <Switch>
-                    <Route path='/portfolio/' component={AboutMe} exact />
+                    <Route path='/portfolio' component={AboutMe} />
                     <Route path='/Projects' component={Projects} />
                     <Route path='/ContactMe' component={ContactMe}/>
                 </Switch>
