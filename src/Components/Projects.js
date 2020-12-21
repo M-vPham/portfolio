@@ -99,7 +99,7 @@ function Projects() {
                             <Card.Meta textAlign='center'>React, Semantic-UI </Card.Meta>
                             <Card.Description textAlign='center'>
                             Web-app that illustrates the the shortest path between two user-selected nodes implementing Dijkstra's algorithm.
-                            <br/><br/>
+                            <br/>
                             </Card.Description>
                         </Card.Content>
                     </Card>
@@ -115,7 +115,7 @@ function Projects() {
                             <Card.Meta textAlign='center'>Haskell</Card.Meta>
                             <Card.Description textAlign='center'>
                             A command-line program that deals out two hands and returns the winning hand.
-                            <br/><br/><br/>
+                            <br/><br/>
                             </Card.Description>
                         </Card.Content>
                     </Card>
