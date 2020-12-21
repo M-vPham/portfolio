@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.fbb59bfa.chunk.css",
+    "main.css": "/static/css/main.88c950cb.chunk.css",
     "main.js": "/static/js/main.4e28d0d1.chunk.js",
     "main.js.map": "/static/js/main.4e28d0d1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.674517a0.js",
@@ -12,12 +12,11 @@
     "static/js/3.fb370233.chunk.js.map": "/static/js/3.fb370233.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.8edbd116.chunk.css.map": "/static/css/2.8edbd116.chunk.css.map",
-    "static/css/main.fbb59bfa.chunk.css.map": "/static/css/main.fbb59bfa.chunk.css.map",
+    "static/css/main.88c950cb.chunk.css.map": "/static/css/main.88c950cb.chunk.css.map",
     "static/js/2.cf8ea118.chunk.js.LICENSE.txt": "/static/js/2.cf8ea118.chunk.js.LICENSE.txt",
     "static/media/AboutMe.35d688b0.jpg": "/static/media/AboutMe.35d688b0.jpg",
     "static/media/Me2.7b53e5f0.png": "/static/media/Me2.7b53e5f0.png",
     "static/media/background.61b4943c.jpg": "/static/media/background.61b4943c.jpg",
-    "static/media/Main.css": "/static/media/backgroundToWebsite.ddd0096f.png",
     "static/media/semantic.min.css": "/static/media/outline-icons.ddae9b1b.woff",
     "static/media/computerScienceResumeDec2020.2dc7bcf0.pdf": "/static/media/computerScienceResumeDec2020.2dc7bcf0.pdf",
     "static/media/djik.20fd14a7.png": "/static/media/djik.20fd14a7.png",
@@ -32,7 +31,7 @@
     "static/js/runtime-main.674517a0.js",
     "static/css/2.8edbd116.chunk.css",
     "static/js/2.cf8ea118.chunk.js",
-    "static/css/main.fbb59bfa.chunk.css",
+    "static/css/main.88c950cb.chunk.css",
     "static/js/main.4e28d0d1.chunk.js"
   ]
 }
